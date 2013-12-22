@@ -1,0 +1,22 @@
+{
+  "name": "MyNanny",
+  "version": "0.0.0",
+  "description": "MyNanny web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woongpark/directory-backbone-bootstrap.git"
+  },
+  "author": "",
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/woongpark/directory-backbone-bootstrap/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "~0.5.0"
+  }
+}
