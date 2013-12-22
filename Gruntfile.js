@@ -5,13 +5,14 @@ module.exports = function(grunt) {
     connect: {
       server: {
         options: {
-          base: '.',
+          base: 'public',
           port: 8000,
           keepalive: true,
           open: 'http://localhost:8000',
           hostname: "*"
         }
       }
+    }
   });
 
   grunt.loadNpmTasks('grunt-contrib-connect');
