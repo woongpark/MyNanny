@@ -15,8 +15,9 @@
   "bugs": {
     "url": "https://github.com/woongpark/directory-backbone-bootstrap/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "grunt": "~0.4.2",
-    "grunt-contrib-connect": "~0.5.0"
+    "grunt-contrib-connect": "~0.5.0",
+    "connect": "~2.12.0"
   }
 }

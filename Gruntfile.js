@@ -12,7 +12,6 @@ module.exports = function(grunt) {
           hostname: "*"
         }
       }
-    }
   });
 
   grunt.loadNpmTasks('grunt-contrib-connect');
